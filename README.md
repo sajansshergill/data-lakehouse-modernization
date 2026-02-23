@@ -1,2 +1,1 @@
-# data-lakehouse-modernization
-Cloud Financial Data Lakehouse Modernization
+# Cloud Financial Data Lakehouse Modernization
